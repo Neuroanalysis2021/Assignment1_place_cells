@@ -33,7 +33,7 @@ This will open a browser window, and you can just click on "Assignment1_start.ip
 Jupyter also has a newer, nicer interface called "Jupyter lab". If you are interested in trying that, you will need *only before the first time* to enable the jupyter lab extensions with the command (from terminal or Anaconda prompt)
 
 ```
-conda install nodejs
+conda install -c conda-forge nodejs
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 ```
 
