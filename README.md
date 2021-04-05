@@ -33,6 +33,7 @@ This will open a browser window, and you can just click on "Assignment1_start.ip
 Jupyter also has a newer, nicer interface called "Jupyter lab". If you are interested in trying that, you will need *only before the first time* to enable the jupyter lab extensions with the command (from terminal or Anaconda prompt)
 
 ```
+conda install nodejs
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 ```
 
@@ -43,3 +44,18 @@ after that, you start the interface with the command
 ```
 jupyter lab 
 ```
+
+I made videos with an explanation of the project: 
+
+[Simulations part 1](https://www.loom.com/share/
+f8be27aaf20c4f38abaabc0748b97135?sharedAppSource=personal_library)
+
+[Simulations part 2](https://www.loom.com/share/f8be27aaf20c4f38abaabc0748b97135)
+
+[Analysis part 1](https://www.loom.com/share/d5647a55d556434bb8235927b7e96769)
+
+[Analysis part 2](https://www.loom.com/share/ffaa0c2bf81e447d92ac3bf976d37f41)
+
+The data for the analysis part can be retrieved from a link which you will find on Mattermost (assignment1 channel)
+
+**Please notice that some of the assignments are marked as OPTIONAL. You can omit those if running out of time**  
