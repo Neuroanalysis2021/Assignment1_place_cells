@@ -47,10 +47,9 @@ jupyter lab
 
 I made videos with an explanation of the project: 
 
-[Simulations part 1](https://www.loom.com/share/
-f8be27aaf20c4f38abaabc0748b97135?sharedAppSource=personal_library)
+[Simulations part 1](https://www.loom.com/share/f8be27aaf20c4f38abaabc0748b97135)
 
-[Simulations part 2](https://www.loom.com/share/f8be27aaf20c4f38abaabc0748b97135)
+[Simulations part 2](https://www.loom.com/share/b6d0f92d03714488afdcaf64da49cf42)
 
 [Analysis part 1](https://www.loom.com/share/d5647a55d556434bb8235927b7e96769)
 
